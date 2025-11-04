@@ -12,6 +12,8 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -26,6 +28,39 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                617 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+🌆 Daytime                2072 commits        ███████████████░░░░░░░░░░   59.23 % 
+🌃 Evening                642 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+🌙 Night                  167 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   540 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Tuesday                  709 commits         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Wednesday                434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Thursday                 823 commits         ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Friday                   489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Saturday                 242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Sunday                   261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -40,7 +75,7 @@ Python                   11 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tommyA8/tommyA8/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 18:43:04 UTC
+ Last Updated on 04/11/2025 18:44:41 UTC
 <!--END_SECTION:waka-->
 ---
 ### 🛠️ My Tech Stack

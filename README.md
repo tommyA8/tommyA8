@@ -12,7 +12,7 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,14 +55,14 @@ Sunday                   262 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   17 hrs 38 mins      ███████████████████████░░   91.08 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-HTML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python                   19 hrs 41 mins      █████████████████████░░░░   85.87 % 
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Text                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -79,7 +79,7 @@ Python                   13 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tommyA8/tommyA8/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 18:43:44 UTC
+ Last Updated on 28/11/2025 18:43:46 UTC
 <!--END_SECTION:waka-->
 ---
 ### 🛠️ My Tech Stack

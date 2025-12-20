@@ -24,7 +24,7 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -79,7 +79,7 @@ Python                   13 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tommyA8/tommyA8/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2025 18:46:25 UTC
+ Last Updated on 20/12/2025 18:42:37 UTC
 <!--END_SECTION:waka-->
 ---
 ### 🛠️ My Tech Stack

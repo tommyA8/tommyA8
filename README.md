@@ -12,8 +12,6 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -28,43 +26,6 @@ I'm an AI Engineer passionate about building intelligent, agentic systems that s
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                662 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-🌆 Daytime                2210 commits        ███████████████░░░░░░░░░░   59.52 % 
-🌃 Evening                652 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-🌙 Night                  189 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   598 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Tuesday                  787 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Wednesday                450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Thursday                 868 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Friday                   501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Saturday                 245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Sunday                   264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Python                   10 hrs 33 mins      ███████████████████░░░░░░   75.47 % 
-YAML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 59 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -79,7 +40,7 @@ Python                   13 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tommyA8/tommyA8/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:46:35 UTC
+ Last Updated on 02/01/2026 18:47:00 UTC
 <!--END_SECTION:waka-->
 ---
 ### 🛠️ My Tech Stack
